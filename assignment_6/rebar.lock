@@ -1,0 +1,8 @@
+[{<<"cowboy">>,{pkg,<<"cowboy">>,<<"1.0.4">>},0},
+ {<<"cowlib">>,{pkg,<<"cowlib">>,<<"1.0.2">>},1},
+ {<<"erl_csv_generator">>,
+  {git,"https://github.com/manastech/erl_csv_generator.git",
+       {ref,"75448f29bdd3a0bc3e5caceb30d10a145039d3b0"}},
+  0},
+ {<<"erlsom">>,{pkg,<<"erlsom">>,<<"1.4.1">>},0},
+ {<<"ranch">>,{pkg,<<"ranch">>,<<"1.2.1">>},1}].
